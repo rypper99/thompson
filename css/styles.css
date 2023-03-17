@@ -7,9 +7,33 @@ body {
   margin: 0 auto;
   padding: 0 20px 20px 20px;
   border: 1px solid black;
+}
+.collapsible-item {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  color:black;
+  background-color: rgb(210, 230, 215);
+  border: 1px solid black;
+  font-size: 22px;
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+}
+.collapsible-item:hover {
+  background-color: #555;
+  color: white;
+}
+.collapsible-content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 
 /****************************************************************************
-}
 .page-title {
   background-color: rgb(187, 187, 247);
   color: black;
@@ -72,29 +96,6 @@ table, th, td {
   margin-top: 15px; 
 }
 
-.collapsible-item {
-  margin-top: 5px;
-  margin-bottom: 0px;
-  color:black;
-  background-color: rgb(210, 230, 215);
-  border: 1px solid black;
-  font-size: 22px;
-  width: 100%;
-  text-align: left;
-  font-weight: bold;
-}
-.collapsible-item:hover {
-  background-color: #555;
-  color: white;
-}
-.collapsible-content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: white;
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
 
 .navbar {
   overflow: hidden;
