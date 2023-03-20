@@ -53,10 +53,6 @@ h1 {
 .page-title {
   color:white;
   background-color: blue;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 .main {
   margin-top: 15px; 
@@ -74,6 +70,10 @@ h1 {
   float: left;
   text-align: center;
   text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 
