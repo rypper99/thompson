@@ -50,19 +50,6 @@ h1 {
   background-color: grey;
   top: 0px;
 }
-/***********************
-.page-title {
-  background-color: rgb(187, 187, 247);
-  color: black;
-  text-align: center;
-  margin-top: 2px;
-	margin-bottom: 2px;
-  margin-left: 0px;
-  margin-right: 00px;
-  border: 1px solid black;
-  font-weight: bold;
-}
-***************/
 .page-title {
   color:white;
   background-color: blue;
@@ -74,7 +61,20 @@ h1 {
 .main {
   margin-top: 15px; 
 }
-
+.navbar {
+  overflow: hidden;
+  background-color: rgb(247, 241, 241);
+  top: 0; 
+  width: 100%; 
+  text-align: right;
+  font-size: 20px;
+}
+.navbar a {
+  font-size: inherit;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+}
 
 
 /****************************************************************************
@@ -108,20 +108,7 @@ p {
 table, th, td {
   border:0px solid black;
 }
-.navbar {
-  overflow: hidden;
-  background-color: rgb(247, 241, 241);
-  top: 0; 
-  width: 100%; 
-  text-align: right;
-  font-size: 20px;
-}
-.navbar a {
-  font-size: inherit;
-  float: left;
-  text-align: center;
-  text-decoration: none;
-}
+
 .navbar a:hover {
   background-color: red;
 }
