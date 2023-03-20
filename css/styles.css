@@ -31,6 +31,10 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+.collapsible-content p, .collapsible-content ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 
 h1 {
   font-weight: bold;
@@ -66,10 +70,7 @@ h1 {
 .main {
   margin-top: 15px; 
 }
-ul {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
+
 
 
 /****************************************************************************
