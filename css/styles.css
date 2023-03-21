@@ -30,6 +30,7 @@ body {
   background-color: white;
   margin-top: 0px;
   margin-bottom: 0px;
+  border: 2px solid black;
 }
 .collapsible-content p, .collapsible-content ul {
   margin-top: 0px;
