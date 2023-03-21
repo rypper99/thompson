@@ -49,12 +49,11 @@ h1 {
   position: sticky; 
   background-color: grey;
   top: 0px;
-  align-items: center;
-  text-align: center;
 }
 .page-title {
   color:white;
   background-color: blue;
+  align-items: center;
 }
 .main {
   margin-top: 15px; 
