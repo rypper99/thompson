@@ -50,6 +50,7 @@ h1 {
   position: sticky; 
   background-color: grey;
   top: 0px;
+  width: 100%;
 }
 .page-title {
   color:white;
