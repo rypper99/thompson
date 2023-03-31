@@ -6,7 +6,7 @@ html {
 body {
   margin: 0 auto;
   padding: 0 20px 20px 20px;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
 }
 .collapsible-item {
   margin-top: 5px;
