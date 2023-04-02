@@ -41,6 +41,7 @@ body {
 .dt {
   background-color: lightgrey;
   font-size: smaller;
+  padding-top: 0px;
 }
 
 h1 {
