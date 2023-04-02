@@ -15,7 +15,8 @@ body {
   background-color: rgb(210, 230, 215);
   border: 1px solid black;
   font-size: 22px;
-  width: 400px;
+  /* width: 400px; */
+  width: max-content;
   text-align: left;
   font-weight: bold;
 }
