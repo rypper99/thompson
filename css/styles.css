@@ -24,7 +24,7 @@ body {
   background-color: #555;
   color: white;
 }
-.collapsible-content {
+.person-content {
   padding: 0 18px;
   display: none;
   overflow: hidden;
@@ -33,7 +33,7 @@ body {
   margin-bottom: 0px;
   border: 2px solid black;
 }
-.collapsible-content ul {
+.person-content ul {
   margin-top: 0px;
   margin-bottom: 0px;
 }
