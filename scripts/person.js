@@ -1,4 +1,4 @@
-var coll = document.getElementsByClassName("collapsible-item");
+var coll = document.getElementsByClassName("person");
 var i;
 
 for (i = 0; i < coll.length; i++) {
