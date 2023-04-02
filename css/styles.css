@@ -38,6 +38,10 @@ body {
   margin-bottom: 0px;
 }
 
+.dt {
+  background-color: grey;
+}
+
 h1 {
   font-weight: bold;
   margin-top: 5px;
