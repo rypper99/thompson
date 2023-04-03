@@ -63,6 +63,9 @@ h1 {
   color:white;
   background-color: blue;
 }
+.feature {
+  background-color: blue;
+}
 .main {
   margin-top: 15px; 
 }
